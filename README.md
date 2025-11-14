@@ -8,9 +8,7 @@
 
 ## 🔗 Link Penting
 - **GitHub Repository:** https://github.com/USERNAME/NAMA-REPO](https://github.com/vaena-miftakhur/UTS-VaenaMiftakhurRisko-24090100/ 
-- **GitHub Pages:** https://USERNAME.github.io/NAMA-REPO/  
-
-> *Silakan ganti USERNAME dan NAMA-REPO sesuai repository kamu.*
+- **GitHub Pages:** https://USERNAME.github.io/NAMA-REPO/ ](https://vaena-miftakhur.github.io/UTS-VaenaMiftakhurRisko-24090100/ 
 
 ---
 
